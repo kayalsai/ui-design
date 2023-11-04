@@ -1,0 +1,346 @@
+/* nav */
+
+.navbar-custom {
+  background-color: #fdf2e9 !important;
+  color: white
+}
+
+.navbar_font {
+  font-weight: 500;
+ 
+}
+
+
+@media only screen and (min-width:310px) and (max-width:767px) {
+  .about{
+      margin-top:25px !important;
+  }
+}
+@media only screen and (min-width:310px) and (max-width:992px) {
+  .gap_content{
+      margin-top:15px !important;
+  }
+}
+.navbar-nav {
+  font-size: 12px !important;
+  font-weight: 500;
+}
+
+.nav-link {
+  color: black !important
+}
+
+.navbar-toggler {
+  color: white !important;
+  background-color: white;
+}
+
+.me {
+  margin-left: auto !important;
+}
+
+.banner{
+  width:100%;
+  height:20vw;
+}
+
+
+.contents{
+  background-color:#fdf2e9;
+}
+
+.card-items {
+  width: 100%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border: 1px solid rgb(229, 223, 223);
+  border-radius: 6px;
+  background-color: white !important;
+  padding:10px;
+}
+
+.text-content {
+  text-align: center;
+  letter-spacing: 1px;
+  font-weight:500;
+  font-size:10px;
+}
+.text-contents {
+
+  letter-spacing: 1px;
+  font-weight:500;
+  font-size:10px;
+}
+.header-content{
+  font-size:14px;
+  font-weight:500;
+  letter-spacing: 1px;;
+}
+.header-format{
+   background-color: #FF8636;
+   color:white;
+   clip-path: polygon(100% 0, 93% 50%, 100% 99%, 0% 100%, 7% 50%, 0% 0%);
+   padding:4px 20px;
+   letter-spacing: 1px;
+}
+.content_text {
+  font-size: 15px;
+  font-weight: 700;
+  color: black;
+  line-height: 1.5;
+
+}
+.food_images {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('./assets/banner.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  opacity: 1;
+  position: relative;
+}
+
+.content {
+
+  padding: 150px;
+  text-align: center;
+  letter-spacing: 0px;
+  color: white;
+  opacity: 1;
+  background-color: rgb(52 47 47 / 17%);
+
+}
+.title-content{
+  color:#FF8636;
+  font-weight: 500;
+}
+
+.organic_product {
+  font-size: 25px;
+  font-weight: 700;
+  color:black;
+}
+.organic_products{
+  font-size: 20px;
+  font-weight: 500;
+  color:black;
+}
+.shop_now{
+  text-align: center;
+  letter-spacing: 1px;
+  font-weight:500;
+  font-size:18px;
+  color:black;
+}
+.shop_now:hover{
+  color:white;
+
+}
+.about_content{
+  color: #555555;
+  font-size: 12px;
+  line-height: 2;
+  font-weight: 500;
+}
+.start_btn{
+  border: 2px solid #e67e22;
+  background-color: #e67e22;
+  color:white;
+  font-weight:500;
+  font-size:12px;
+  padding:15px;
+  text-align:center;
+  border-radius: 5px;
+}
+.learn_btn{
+  border: 2px solid transparent;
+  background-color: white;
+  color:#555555;
+  font-weight:500;
+  font-size:12px;
+  padding:15px;
+  text-align:center;
+  border-radius: 6px;
+}
+.delievered_peoples img{
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  border: 3px solid white;
+  margin-left: -18px;
+}
+.price_meals{
+  padding-left:0px !important;
+}
+.price{
+  color:#cf711f;
+  font-size:16px;
+  font-weight:700
+}
+.meals{
+  font-size:13px;
+  font-weight:700;
+  color:#555555;
+}
+.feature-btn {
+  border: 2px solid black;
+  padding: 10px 30px;
+  border-radius: 6px;
+  font-size:10px;
+}
+
+.feature-btn:hover {
+  background-color: orange;
+  color: white;
+  font-weight:500
+}
+
+.imges {
+  width: 200px;
+  height: 150px;
+}
+
+.fa-star-half-alt:before,
+.fa-star-half-stroke:before {
+  color: #FF8636;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.fa-star:before {
+  color: #FF8636;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+
+
+.image_icon {
+  color: #FF8636;
+  font-size: 18px;
+  font-weight: 700;
+  margin-right: 10px;
+}
+.image_icons {
+  color: #FF8636;
+  font-size: 15px;
+  font-weight: 500;
+  margin-right: 10px;
+}
+
+.align_text_items {
+  text-align: center;
+
+}
+
+.card-items_categories {
+  width: 100%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border: 1px solid rgb(229, 223, 223);
+  background-color: white !important;
+}
+
+.profile_imeges {
+  border: 1px solid white;
+  border-radius: 50%;
+  width: 100px;
+}
+
+.blog_images {
+  width: 100%;
+}
+
+.align_items {
+  margin-top: 2.5rem !important;
+  padding: 0px 15px;
+}
+
+.user {
+  padding: 0px 10px;
+}
+
+.bar-line {
+  position: relative;
+  border-bottom: 2px solid rgba(0, 0, 0, .1);
+  margin: 10px;
+}
+
+.fresh_veges_blog {
+  margin: 15px;
+}
+
+.bg-color {
+  background: whitesmoke;
+
+}
+
+.box {
+  border: 2px solid rgba(0, 0, 0, .1);
+  border-radius: 5px;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  padding: 10px;
+  background-color: whitesmoke;
+
+}
+.box:hover{
+  background-color: #FF8636;
+  color:white;
+}
+
+.icons{
+  font-size:18px;
+}
+.icons:hover{
+  color: white;
+}
+.input_email{
+  border:2px solid grey;
+  background-color:whitesmoke ;
+  border-radius: 5px;
+  outline: none;
+  padding:10px 20px;
+  width:100%
+
+}
+.user_vertical{
+  position: absolute;
+}
+.user_line{
+  position:relative ;
+  border-right: 2px solid rgb(230, 223, 223);
+
+  
+}
+.links{
+  font-size:12px
+}
+.links:hover{
+  padding-left:1rem ;
+}
+.feature_text{
+  font-size:12px;
+  font-weight:500;
+  letter-spacing:1px;
+}
+.app_text{
+  font-size:12px;
+  font-weight:700;
+  letter-spacing:1px;
+}
+.about{
+letter-spacing: 1px;
+}
+.createText{
+  color:#FF8636;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+@media (min-width: 1400px){
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1600px !important;
+}
+}
