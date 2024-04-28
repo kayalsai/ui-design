@@ -76,7 +76,7 @@
   letter-spacing: 1px;;
 }
 .header-format{
-   background-color: #FF8636;
+   background-color: #cf711f;
    color:white;
    clip-path: polygon(100% 0, 93% 50%, 100% 99%, 0% 100%, 7% 50%, 0% 0%);
    padding:4px 20px;
@@ -113,7 +113,7 @@
 
 }
 .title-content{
-  color:#FF8636;
+  color:#cf711f;
   font-weight: 500;
 }
 
@@ -145,8 +145,8 @@
   font-weight: 500;
 }
 .start_btn{
-  border: 2px solid #e67e22;
-  background-color: #e67e22;
+  border: 2px solid #cf711f;
+  background-color: #cf711f;
   color:white;
   font-weight:500;
   font-size:12px;
@@ -185,14 +185,14 @@
   color:#555555;
 }
 .feature-btn {
-  border: 2px solid black;
+  border: 2px solid #cf711f;
   padding: 10px 30px;
   border-radius: 6px;
   font-size:10px;
 }
 
 .feature-btn:hover {
-  background-color: orange;
+  background-color: #cf711f;
   color: white;
   font-weight:500
 }
@@ -204,13 +204,13 @@
 
 .fa-star-half-alt:before,
 .fa-star-half-stroke:before {
-  color: #FF8636;
+  color: #cf711f;
   font-size: 20px;
   font-weight: 700;
 }
 
 .fa-star:before {
-  color: #FF8636;
+  color: #cf711f;
   font-size: 20px;
   font-weight: 700;
 }
@@ -218,13 +218,13 @@
 
 
 .image_icon {
-  color: #FF8636;
+  color: #cf711f;
   font-size: 18px;
   font-weight: 700;
   margin-right: 10px;
 }
 .image_icons {
-  color: #FF8636;
+  color: #cf711f;
   font-size: 15px;
   font-weight: 500;
   margin-right: 10px;
@@ -287,7 +287,7 @@
 
 }
 .box:hover{
-  background-color: #FF8636;
+  background-color: #cf711f;
   color:white;
 }
 
@@ -322,20 +322,17 @@
   padding-left:1rem ;
 }
 .feature_text{
+  color:#cf711f;
   font-size:12px;
   font-weight:500;
   letter-spacing:1px;
 }
-.app_text{
-  font-size:12px;
-  font-weight:700;
-  letter-spacing:1px;
-}
+
 .about{
 letter-spacing: 1px;
 }
 .createText{
-  color:#FF8636;
+  color:#cf711f;
   font-weight: 500;
   letter-spacing: 1px;
 }
